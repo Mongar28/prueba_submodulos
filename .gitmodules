@@ -1,6 +1,6 @@
-[submodule "submodulos/thematic_search_engine_actas_concejomedellin"]
-	path = submodulos/thematic_search_engine_actas_concejomedellin
-	url = git@github.com:Mongar28/thematic_search_engine_actas_concejomedellin.git
 [submodule "submodulos/extraccion_restructuracion_de_pdfs"]
 	path = submodulos/extraccion_restructuracion_de_pdfs
 	url = git@github.com:Mongar28/extraccion_restructuracion_de_pdfs.git
+[submodule "submodulos/chat_bot_whisper"]
+	path = submodulos/chat_bot_whisper
+	url = git@github.com:Mongar28/chat_bot_whisper.git
